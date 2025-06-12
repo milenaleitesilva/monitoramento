@@ -4,4 +4,6 @@ Utilizo como ferramenta de estudo o Oracle VirtualBox. A instalação e configur
 
 
 **`1. Instalação e Configuração do Ambiente de Observability`**
+<br/>
+<br/>
 Após instalar a versão mais recente do Oracle Virtual Box 

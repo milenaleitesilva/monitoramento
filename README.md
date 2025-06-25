@@ -6,11 +6,25 @@ Utilizo como ferramenta de estudo o Oracle VirtualBox. A instalação e configur
 **`1. Instalação e Configuração do Ambiente de Observability`**
 <br/>
 <br/>
-Para o pleno funcionamento do nosso ambiente, vamos instalar e configurar o Vagrant, Git e o Virtual Box. 
+Para o pleno funcionamento do nosso ambiente, vamos instalar e configurar o Virtual Box, Vagrant e Git. 
+<br/>
 <br/>
 1-Virtual box
 <br/>
-No site da [VirtualBox](https://www.virtualbox.org/wiki/Downloads) podemos instalar a versão mais recente do Oracle VM VirtualBox. Para verficar que foi instalado corretamente, utilizo o seguinte comando:
+No site da [VirtualBox](https://www.virtualbox.org/wiki/Downloads) podemos instalar a versão mais recente do Oracle VM VirtualBox. A instalação é simples e para verficar que foi instalado corretamente, utilizo o seguinte comando:
 <br/>
-![image](https://github.com/user-attachments/assets/4b74de90-11e1-48de-9540-ad6c35a311d2)
-
+<br/>
+![image](https://github.com/user-attachments/assets/a597c17c-a527-4843-a89f-dfedeb028861)
+<br/>
+<br/>
+Após verificação, na mesma página do link para o VirtualBox, clicarei em "Linux Distribuitions" para instalar a distribuição Ubuntu.
+<br/>
+<br/>
+![image](https://github.com/user-attachments/assets/10cfc8a2-9b75-442c-9b67-987331b00417)
+<br/>
+<br/>
+Salvei o arquivo, e então acessei a pasta onde o pacote de instalação do VirtualBox foi armazenado e realizei a instalação conforme a distribuição. Por exemplo: 
+<br/>
+<br/>
+2- Vagrant
+<br/>

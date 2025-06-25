@@ -1,4 +1,4 @@
-# 🖥️ Monitoramento 
+# 🖥️ Projeto Observability Zabbix
 
 Nesse projeto, estou documentando todo o processo para atingir o funcionamento eficaz do ambiente. Será um ambiente Linux, baseado no Ubunto, para ferramenta Zabbix. O inutuito desse projeto, é demonstrar pleno conhecimento N1 sobre servidores Linux, Zabbix, CMD, criação de grupos de usuários, importação de templates, monitoramento de sistemas operacionais (CPU, memória, disco, rede), monitoramento de redes (tráfego, latência, perda de pacotes e desempenho) e monitoramento de recursos: (CPU, Memória, Disco, Rede). Todo conhecimento deste projeto foi adquirido no curso 052 - Observability and Monitoring Fundamentals pela plataforma 4Linux. Objetivo: Demonstrar conhecimento, concretizar meu aprendizado e alcançar olhares de recrutadores. 😎
 
